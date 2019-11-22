@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="D:/project/BankFileDemon/lib/commons-net-1.4.1.jar" kind="lib"/>
+	<classpathentry path="D:/project/BankFileDemon/lib/jakarta-oro-2.0.8.jar" kind="lib"/>
+	<classpathentry path="D:/project/BankFileDemon/lib/log4j-1.2.14.jar" kind="lib"/>
+	<classpathentry path="" kind="output"/>
+</classpath>
