@@ -246,4 +246,7 @@ public class BankSendReceiveDaemon {
     		}
     	}
     }
+    
+    public void testJD() {
+    }
 }
